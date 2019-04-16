@@ -3,7 +3,7 @@
 
 ## News
 
- - We presented a tutorial at [IEEE IRC 2019](http://aws.robotcaresystems.com/IEEE-IRC-2019/). [Slides are available here](Documentation/Tutorials/IEEE-IRC-2019/README.md).
+ - We presented a tutorial at [IEEE IRC 2019](http://irc.asia.edu.tw/2019/). [Slides are available here](https://github.com/robotcaresystems/RoboticsLanguage/blob/development/Documentation/Tutorials/IEEE-IRC-2019/README.md).
  - We presented recently at the [AWS re:invent conference 2018](https://youtu.be/HAela66zov0?t=1692)
 
 ## Robotics Language
@@ -13,4 +13,4 @@ The Robotics Language is an open extensible domain-specific (or model-based) lan
 
 For more information please click:
 
->>> [Robotics Language](https://github.com/robotcaresystems/RoboticsLanguage) <<<
+# [Robotics Language](https://github.com/robotcaresystems/RoboticsLanguage)
